@@ -2,8 +2,6 @@ function [] = time_calc(n,d)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-%   NAME: ELZALABANY
-%   MATRIKEL-NR: 21596555
 %   Performance Calculation function
 %
 %   #################

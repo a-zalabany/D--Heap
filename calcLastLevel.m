@@ -2,8 +2,6 @@ function last_level = calcLastLevel(heap,d)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                                                    
-%   NAME: ELZALABANY
-%   MATRIKEL-NR: 21596555
 %   This function calculates the
 %   number of nodes in last level in heap
 %

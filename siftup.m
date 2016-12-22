@@ -2,8 +2,6 @@ function heap = siftup(item, position, heap, d)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-%   NAME: ELZALABANY
-%   MATRIKEL-NR: 21596555
 %   Siftup algorithm
 %
 %   #################

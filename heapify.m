@@ -2,8 +2,6 @@ function heap = heapify(array,d, type)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-%   NAME: ELZALABANY
-%   MATRIKEL-NR: 21596555
 %   Heapify Algorithm
 %   with combined insert and siftdown methods
 %

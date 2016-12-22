@@ -2,8 +2,6 @@ function heap = siftdown(item, position, heap, d)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-%   NAME: ELZALABANY
-%   MATRIKEL-NR: 21596555
 %   Siftdown algorithm
 %
 %   The algorithm uses these functions:

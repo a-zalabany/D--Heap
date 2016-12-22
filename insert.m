@@ -2,8 +2,6 @@ function heap = insert(item, heap, d)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-%   NAME: ELZALABANY
-%   MATRIKEL-NR: 21596555
 %   Insert algorithm
 %
 %   The algorithm uses this function:
